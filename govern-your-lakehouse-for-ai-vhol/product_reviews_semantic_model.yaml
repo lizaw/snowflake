@@ -9,7 +9,7 @@ tables:
       Product reviews table containing customer feedback, ratings, and review details.
       Each row represents a single review for a product.
     base_table:
-      database: LAKEHOUSE_VHOL
+      database: LAKEHOUSE_AI_AGENT
       schema: PUBLIC
       table: PRODUCT_REVIEWS_ICEBERG
     
